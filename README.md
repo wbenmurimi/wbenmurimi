@@ -7,8 +7,10 @@
   <a href="mailto:wbenmurimi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=wbenmurimi&label=Profile%20views&color=326CE5&style=for-the-badge" alt="profile views" />
 </p>
-[![Benson Murimi on CertDirectory](https://certdirectory.io/badge/benson-murimi.svg?style=card)](https://certdirectory.io/profile/benson-murimi?utm_source=github&utm_medium=readme)
 
+---
+
+[![Benson Murimi on CertDirectory](https://certdirectory.io/badge/benson-murimi.svg?style=card)](https://certdirectory.io/profile/benson-murimi?utm_source=github&utm_medium=readme)
 
 ---
 
