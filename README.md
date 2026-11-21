@@ -94,7 +94,7 @@ I'm a DevOps & Platform Engineer based in **Kigali, Rwanda 🇷🇼** with **8+ 
 
 ## 🏅 Certifications & Education
 
-- ☸️ **Kubestronaut** · Certified Kubernetes Administrator (CKA), CNCF
+- ☸️ **Kubestronaut** · CKS,CKA,CKAD,CKSA,CKNA - Cloud Native Computing Foundation (CNCF)
 - ☁️ **Nutanix Multicloud Infrastructure**, Nutanix
 - 🎓 **M.S. Information Technology**, Carnegie Mellon University
 - 🎓 **B.Sc. Computer Science**, Ashesi University
