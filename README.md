@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Benson Murimi on CertDirectory](https://certdirectory.io/badge/benson-murimi.svg?style=card)](https://certdirectory.io/profile/benson-murimi?utm_source=github&utm_medium=readme)
+
 <!--
 **wbenmurimi/wbenmurimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
